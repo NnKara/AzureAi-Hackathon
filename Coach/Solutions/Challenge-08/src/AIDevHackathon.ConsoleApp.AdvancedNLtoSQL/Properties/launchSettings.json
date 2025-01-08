@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "SK.NLtoSQL": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}

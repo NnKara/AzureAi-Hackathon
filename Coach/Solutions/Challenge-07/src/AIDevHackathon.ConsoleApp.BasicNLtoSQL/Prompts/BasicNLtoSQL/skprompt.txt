@@ -1,0 +1,6 @@
+﻿Given the SQL schema and a query in natural language, you have to format the query into a single valid SQL statement.
+
+{{$sqlSchema}}
+
+User Input
+{{$input}}

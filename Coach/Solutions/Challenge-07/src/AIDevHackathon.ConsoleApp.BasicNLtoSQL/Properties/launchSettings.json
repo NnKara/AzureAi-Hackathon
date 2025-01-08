@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "AIDevHackathon.ConsoleApp.BasicNLtoSQL": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "development"
+      }
+    }
+  }
+}
